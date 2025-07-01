@@ -149,16 +149,12 @@ Brute Force	O(n) + O(n) = O(n)	O(1)
 Optimal (2 ptr)	O(n)	O(1)
 
 ✅ Sample Input
-vbnet
-Copy
-Edit
+
 Enter number of elements in the linked list: 5
 Enter the elements: 1 2 3 4 5
 Enter n (to remove nth node from end): 2
 ✅ Output
-rust
-Copy
-Edit
+
 Brute Force Result: 1 2 3 5
 Optimal Result:     1 2 3 5
 */
